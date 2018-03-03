@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">اداره البيانات</string>
+    <string name="str_mobile">رقم الموبايل</string>
+    <string name="str_message">رساله نصيه</string>
+    <string name="str_next">التالى</string>
+    <string name="str_close">اغلاق</string>
+</resources>

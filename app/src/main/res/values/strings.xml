@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataManagement</string>
+    <string name="str_mobile">Mobile number</string>
+    <string name="str_message">text message</string>
+    <string name="str_next">Next</string>
+    <string name="str_close">Close</string>
+</resources>
